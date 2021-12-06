@@ -8,6 +8,7 @@ namespace LR0Moroz
 {
     public partial class MainTable : Form
     {
+        public string urm = "Kok";
         public MainTable()
         {
             InitializeComponent();
