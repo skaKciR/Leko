@@ -4,7 +4,7 @@ using System.Windows.Forms;
 namespace LR0Moroz
 {
     public partial class AddOrderForm : Form
-    {
+    {   public string Lexa = "BEST";
         public MainTable otherForm;
         public double a = 0;
         public AddOrderForm(MainTable form1)
